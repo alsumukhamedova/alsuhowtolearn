@@ -192,9 +192,8 @@
   flex-direction: column;
   overflow: hidden;
   position: relative;
-  height: 967px;
   padding-top: 90px;
-  background-color: #000000;
+  background-color:  #1f1f1f;
   padding-bottom: 90px;
 }
 .section-title_theme_dark{
@@ -250,11 +249,13 @@
   z-index: 2;
   background-image: url(../images/kaufman-triangle.svg);
   background-repeat: no-repeat;
+  background-size: 877px;
 }
 .footer{
   box-sizing: border-box;
   min-height: 350px;
-  background-color: black;
+  background-color: #1f1f1f;
+  margin: 0;
 }
 .footer__columns{
   height: 350px;
