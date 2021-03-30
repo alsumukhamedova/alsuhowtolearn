@@ -48,7 +48,7 @@
 }
 .header__link{
   text-decoration: none;
-  color: #2f80ed
+  color: #2f80ed;
 }
 .header_main-illustration{
   display: flex;
@@ -89,7 +89,6 @@
   color: #2f80ed;
   padding: 0;
   text-decoration: none;
-  color: #2f80ed;
 }
 .two-columns__main-text{
   width: 80%;
@@ -106,6 +105,7 @@
   margin: 100px auto;
 }
 .section-title{
+  width: 1100px;
   text-align: center;
   line-height: 1.15;
   font-size: 60px;
@@ -196,9 +196,6 @@
   padding-top: 90px;
   background-color: #000000;
   padding-bottom: 90px;
-}
-.section-title{
-  width: 1100px;
 }
 .section-title_theme_dark{
   width: 60%;
