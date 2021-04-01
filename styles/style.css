@@ -95,6 +95,8 @@
   color: #2f80ed;
   padding: 0;
   text-decoration: none;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 .two-columns__main-text{
   width: 80%;
