@@ -2,4 +2,6 @@
   width: 620px;
   height: 608px;
   margin-right: 48px;
+  contain: content;
+  object-position: center;
 }
